@@ -1,2 +1,0 @@
-# sellhome
-Created with CodeSandbox
